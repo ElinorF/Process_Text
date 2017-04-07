@@ -11,6 +11,6 @@ Files can be found in folder named Data.
 
 
 
-Run the program by opening it in NetBeans:
+Program could be run by opening it in NetBeans:
 File -> New Project -> Maven -> Project with Existing POM
 
